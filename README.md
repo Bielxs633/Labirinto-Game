@@ -20,4 +20,5 @@ Este projeto é um **Jogo de Labirinto**. O objetivo do jogo é navegar pelo lab
 ## Tecnologias utilizadas
 - **HTML**
 - **CSS**
-- **JavaScript** 
+- **JavaScript**
+- **Git**
