@@ -12,8 +12,8 @@ Este projeto é um **Jogo de Labirinto**. O objetivo do jogo é navegar pelo lab
 ---
 
 ## Funcionalidades
-- **Controle por Teclado**: Movimente o jogador usando as teclas direcionais.
-- **Colisão**: Detecção de paredes e áreas proibidas.
+1. **Controle por Teclado**: Movimente o jogador usando as teclas direcionais.
+2. **Colisão**: Detecção de paredes e áreas proibidas.
 
 ---
 
