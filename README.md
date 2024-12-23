@@ -21,4 +21,5 @@ Este projeto é um **Jogo de Labirinto**. O objetivo do jogo é navegar pelo lab
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Markdown**
 - **Git**
